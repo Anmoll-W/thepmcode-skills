@@ -107,4 +107,6 @@ Two skills bundle third-party reference material that keeps its own license: cod
 
 Built by [The PM Code](https://www.linkedin.com/company/the-pm-code/) · [Newsletter](https://thepmcode.substack.com) · [thepmcode.com](https://thepmcode.com)
 
+The PM Code app for Android is coming soon: one product decision a day. Early access at [thepmcode.com/app](https://www.thepmcode.com/app)
+
 If a skill saved you a bad meeting or a shipped bug, a star helps other product people find it.
